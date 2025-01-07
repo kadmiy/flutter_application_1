@@ -1,6 +1,6 @@
 # flutter_application_1
 
-A new Flutter project.
+Вникаю в разработку на Flutter под ОС Аврора, вместе с MadBrains.
 
 ## Getting Started
 
